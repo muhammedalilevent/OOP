@@ -1,0 +1,9 @@
+C:\D\YMS5528\OOP\4_ReferanceType_ValueType\4_ReferanceType_ValueType\bin\Debug\4_ReferanceType_ValueType.exe.config
+C:\D\YMS5528\OOP\4_ReferanceType_ValueType\4_ReferanceType_ValueType\bin\Debug\4_ReferanceType_ValueType.exe
+C:\D\YMS5528\OOP\4_ReferanceType_ValueType\4_ReferanceType_ValueType\bin\Debug\4_ReferanceType_ValueType.pdb
+C:\D\YMS5528\OOP\4_ReferanceType_ValueType\4_ReferanceType_ValueType\obj\Debug\_4_ReferanceType_ValueType.Form1.resources
+C:\D\YMS5528\OOP\4_ReferanceType_ValueType\4_ReferanceType_ValueType\obj\Debug\_4_ReferanceType_ValueType.Properties.Resources.resources
+C:\D\YMS5528\OOP\4_ReferanceType_ValueType\4_ReferanceType_ValueType\obj\Debug\4_ReferanceType_ValueType.csproj.GenerateResource.Cache
+C:\D\YMS5528\OOP\4_ReferanceType_ValueType\4_ReferanceType_ValueType\obj\Debug\4_ReferanceType_ValueType.exe
+C:\D\YMS5528\OOP\4_ReferanceType_ValueType\4_ReferanceType_ValueType\obj\Debug\4_ReferanceType_ValueType.pdb
+C:\D\YMS5528\OOP\4_ReferanceType_ValueType\4_ReferanceType_ValueType\obj\Debug\4_ReferanceType_ValueType.csprojResolveAssemblyReference.cache

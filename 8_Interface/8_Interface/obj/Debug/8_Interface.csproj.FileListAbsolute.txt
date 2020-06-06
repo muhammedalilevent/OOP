@@ -1,0 +1,9 @@
+C:\D\YMS5528\OOP\8_Interface\8_Interface\bin\Debug\8_Interface.exe.config
+C:\D\YMS5528\OOP\8_Interface\8_Interface\bin\Debug\8_Interface.exe
+C:\D\YMS5528\OOP\8_Interface\8_Interface\bin\Debug\8_Interface.pdb
+C:\D\YMS5528\OOP\8_Interface\8_Interface\obj\Debug\8_Interface.csprojResolveAssemblyReference.cache
+C:\D\YMS5528\OOP\8_Interface\8_Interface\obj\Debug\_8_Interface.Form1.resources
+C:\D\YMS5528\OOP\8_Interface\8_Interface\obj\Debug\_8_Interface.Properties.Resources.resources
+C:\D\YMS5528\OOP\8_Interface\8_Interface\obj\Debug\8_Interface.csproj.GenerateResource.Cache
+C:\D\YMS5528\OOP\8_Interface\8_Interface\obj\Debug\8_Interface.exe
+C:\D\YMS5528\OOP\8_Interface\8_Interface\obj\Debug\8_Interface.pdb

@@ -1,0 +1,9 @@
+C:\D\YMS5528\OOP\10_Delegate\10_Delegate\bin\Debug\10_Delegate.exe.config
+C:\D\YMS5528\OOP\10_Delegate\10_Delegate\bin\Debug\10_Delegate.exe
+C:\D\YMS5528\OOP\10_Delegate\10_Delegate\bin\Debug\10_Delegate.pdb
+C:\D\YMS5528\OOP\10_Delegate\10_Delegate\obj\Debug\10_Delegate.csprojResolveAssemblyReference.cache
+C:\D\YMS5528\OOP\10_Delegate\10_Delegate\obj\Debug\_10_Delegate.Form1.resources
+C:\D\YMS5528\OOP\10_Delegate\10_Delegate\obj\Debug\_10_Delegate.Properties.Resources.resources
+C:\D\YMS5528\OOP\10_Delegate\10_Delegate\obj\Debug\10_Delegate.csproj.GenerateResource.Cache
+C:\D\YMS5528\OOP\10_Delegate\10_Delegate\obj\Debug\10_Delegate.exe
+C:\D\YMS5528\OOP\10_Delegate\10_Delegate\obj\Debug\10_Delegate.pdb

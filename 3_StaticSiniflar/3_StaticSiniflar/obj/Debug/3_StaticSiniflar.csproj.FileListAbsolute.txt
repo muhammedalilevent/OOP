@@ -1,0 +1,8 @@
+C:\D\YMS5528\OOP\3_StaticSiniflar\3_StaticSiniflar\bin\Debug\3_StaticSiniflar.exe.config
+C:\D\YMS5528\OOP\3_StaticSiniflar\3_StaticSiniflar\bin\Debug\3_StaticSiniflar.exe
+C:\D\YMS5528\OOP\3_StaticSiniflar\3_StaticSiniflar\bin\Debug\3_StaticSiniflar.pdb
+C:\D\YMS5528\OOP\3_StaticSiniflar\3_StaticSiniflar\obj\Debug\_3_StaticSiniflar.Form1.resources
+C:\D\YMS5528\OOP\3_StaticSiniflar\3_StaticSiniflar\obj\Debug\_3_StaticSiniflar.Properties.Resources.resources
+C:\D\YMS5528\OOP\3_StaticSiniflar\3_StaticSiniflar\obj\Debug\3_StaticSiniflar.csproj.GenerateResource.Cache
+C:\D\YMS5528\OOP\3_StaticSiniflar\3_StaticSiniflar\obj\Debug\3_StaticSiniflar.exe
+C:\D\YMS5528\OOP\3_StaticSiniflar\3_StaticSiniflar\obj\Debug\3_StaticSiniflar.pdb

@@ -1,0 +1,9 @@
+C:\D\YMS5528\OOP\6_Inheritance_Abstract\6_Inheritance_Abstract\bin\Debug\6_Inheritance_Abstract.exe.config
+C:\D\YMS5528\OOP\6_Inheritance_Abstract\6_Inheritance_Abstract\bin\Debug\6_Inheritance_Abstract.exe
+C:\D\YMS5528\OOP\6_Inheritance_Abstract\6_Inheritance_Abstract\bin\Debug\6_Inheritance_Abstract.pdb
+C:\D\YMS5528\OOP\6_Inheritance_Abstract\6_Inheritance_Abstract\obj\Debug\6_Inheritance_Abstract.csprojResolveAssemblyReference.cache
+C:\D\YMS5528\OOP\6_Inheritance_Abstract\6_Inheritance_Abstract\obj\Debug\_6_Inheritance_Abstract.Form1.resources
+C:\D\YMS5528\OOP\6_Inheritance_Abstract\6_Inheritance_Abstract\obj\Debug\_6_Inheritance_Abstract.Properties.Resources.resources
+C:\D\YMS5528\OOP\6_Inheritance_Abstract\6_Inheritance_Abstract\obj\Debug\6_Inheritance_Abstract.csproj.GenerateResource.Cache
+C:\D\YMS5528\OOP\6_Inheritance_Abstract\6_Inheritance_Abstract\obj\Debug\6_Inheritance_Abstract.exe
+C:\D\YMS5528\OOP\6_Inheritance_Abstract\6_Inheritance_Abstract\obj\Debug\6_Inheritance_Abstract.pdb

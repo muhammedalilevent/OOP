@@ -1,0 +1,9 @@
+C:\D\YMS5528\OOP\5_Enums\5_Enums\bin\Debug\5_Enums.exe.config
+C:\D\YMS5528\OOP\5_Enums\5_Enums\bin\Debug\5_Enums.exe
+C:\D\YMS5528\OOP\5_Enums\5_Enums\bin\Debug\5_Enums.pdb
+C:\D\YMS5528\OOP\5_Enums\5_Enums\obj\Debug\5_Enums.csprojResolveAssemblyReference.cache
+C:\D\YMS5528\OOP\5_Enums\5_Enums\obj\Debug\_5_Enums.Form1.resources
+C:\D\YMS5528\OOP\5_Enums\5_Enums\obj\Debug\_5_Enums.Properties.Resources.resources
+C:\D\YMS5528\OOP\5_Enums\5_Enums\obj\Debug\5_Enums.csproj.GenerateResource.Cache
+C:\D\YMS5528\OOP\5_Enums\5_Enums\obj\Debug\5_Enums.exe
+C:\D\YMS5528\OOP\5_Enums\5_Enums\obj\Debug\5_Enums.pdb

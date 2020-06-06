@@ -1,0 +1,9 @@
+C:\D\YMS5528\OOP\7_Polimorphisim_CokBicimlilik\7_Polimorphisim_CokBicimlilik\bin\Debug\7_Polimorphisim_CokBicimlilik.exe.config
+C:\D\YMS5528\OOP\7_Polimorphisim_CokBicimlilik\7_Polimorphisim_CokBicimlilik\bin\Debug\7_Polimorphisim_CokBicimlilik.exe
+C:\D\YMS5528\OOP\7_Polimorphisim_CokBicimlilik\7_Polimorphisim_CokBicimlilik\bin\Debug\7_Polimorphisim_CokBicimlilik.pdb
+C:\D\YMS5528\OOP\7_Polimorphisim_CokBicimlilik\7_Polimorphisim_CokBicimlilik\obj\Debug\7_Polimorphisim_CokBicimlilik.csprojResolveAssemblyReference.cache
+C:\D\YMS5528\OOP\7_Polimorphisim_CokBicimlilik\7_Polimorphisim_CokBicimlilik\obj\Debug\_7_Polimorphisim_CokBicimlilik.Form1.resources
+C:\D\YMS5528\OOP\7_Polimorphisim_CokBicimlilik\7_Polimorphisim_CokBicimlilik\obj\Debug\_7_Polimorphisim_CokBicimlilik.Properties.Resources.resources
+C:\D\YMS5528\OOP\7_Polimorphisim_CokBicimlilik\7_Polimorphisim_CokBicimlilik\obj\Debug\7_Polimorphisim_CokBicimlilik.csproj.GenerateResource.Cache
+C:\D\YMS5528\OOP\7_Polimorphisim_CokBicimlilik\7_Polimorphisim_CokBicimlilik\obj\Debug\7_Polimorphisim_CokBicimlilik.exe
+C:\D\YMS5528\OOP\7_Polimorphisim_CokBicimlilik\7_Polimorphisim_CokBicimlilik\obj\Debug\7_Polimorphisim_CokBicimlilik.pdb

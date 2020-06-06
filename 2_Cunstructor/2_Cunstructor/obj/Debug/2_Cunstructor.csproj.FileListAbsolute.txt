@@ -1,0 +1,8 @@
+C:\D\YMS5528\OOP\2_Cunstructor\2_Cunstructor\bin\Debug\2_Cunstructor.exe.config
+C:\D\YMS5528\OOP\2_Cunstructor\2_Cunstructor\bin\Debug\2_Cunstructor.exe
+C:\D\YMS5528\OOP\2_Cunstructor\2_Cunstructor\bin\Debug\2_Cunstructor.pdb
+C:\D\YMS5528\OOP\2_Cunstructor\2_Cunstructor\obj\Debug\_2_Cunstructor.Form1.resources
+C:\D\YMS5528\OOP\2_Cunstructor\2_Cunstructor\obj\Debug\_2_Cunstructor.Properties.Resources.resources
+C:\D\YMS5528\OOP\2_Cunstructor\2_Cunstructor\obj\Debug\2_Cunstructor.csproj.GenerateResource.Cache
+C:\D\YMS5528\OOP\2_Cunstructor\2_Cunstructor\obj\Debug\2_Cunstructor.exe
+C:\D\YMS5528\OOP\2_Cunstructor\2_Cunstructor\obj\Debug\2_Cunstructor.pdb

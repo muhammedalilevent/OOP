@@ -1,0 +1,9 @@
+C:\D\YMS5528\OOP\1_ClassObject\1_ClassObject\bin\Debug\1_ClassObject.exe.config
+C:\D\YMS5528\OOP\1_ClassObject\1_ClassObject\bin\Debug\1_ClassObject.exe
+C:\D\YMS5528\OOP\1_ClassObject\1_ClassObject\bin\Debug\1_ClassObject.pdb
+C:\D\YMS5528\OOP\1_ClassObject\1_ClassObject\obj\Debug\1_ClassObject.csprojResolveAssemblyReference.cache
+C:\D\YMS5528\OOP\1_ClassObject\1_ClassObject\obj\Debug\_1_ClassObject.Form1.resources
+C:\D\YMS5528\OOP\1_ClassObject\1_ClassObject\obj\Debug\_1_ClassObject.Properties.Resources.resources
+C:\D\YMS5528\OOP\1_ClassObject\1_ClassObject\obj\Debug\1_ClassObject.csproj.GenerateResource.Cache
+C:\D\YMS5528\OOP\1_ClassObject\1_ClassObject\obj\Debug\1_ClassObject.exe
+C:\D\YMS5528\OOP\1_ClassObject\1_ClassObject\obj\Debug\1_ClassObject.pdb

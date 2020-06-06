@@ -1,0 +1,9 @@
+C:\D\YMS5528\OOP\13_Generics\13_Generics\bin\Debug\13_Generics.exe.config
+C:\D\YMS5528\OOP\13_Generics\13_Generics\bin\Debug\13_Generics.exe
+C:\D\YMS5528\OOP\13_Generics\13_Generics\bin\Debug\13_Generics.pdb
+C:\D\YMS5528\OOP\13_Generics\13_Generics\obj\Debug\13_Generics.csprojResolveAssemblyReference.cache
+C:\D\YMS5528\OOP\13_Generics\13_Generics\obj\Debug\_13_Generics.Form1.resources
+C:\D\YMS5528\OOP\13_Generics\13_Generics\obj\Debug\_13_Generics.Properties.Resources.resources
+C:\D\YMS5528\OOP\13_Generics\13_Generics\obj\Debug\13_Generics.csproj.GenerateResource.Cache
+C:\D\YMS5528\OOP\13_Generics\13_Generics\obj\Debug\13_Generics.exe
+C:\D\YMS5528\OOP\13_Generics\13_Generics\obj\Debug\13_Generics.pdb

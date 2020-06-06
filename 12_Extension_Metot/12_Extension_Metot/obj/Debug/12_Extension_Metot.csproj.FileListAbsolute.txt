@@ -1,0 +1,9 @@
+C:\D\YMS5528\OOP\12_Extension_Metot\12_Extension_Metot\bin\Debug\12_Extension_Metot.exe.config
+C:\D\YMS5528\OOP\12_Extension_Metot\12_Extension_Metot\bin\Debug\12_Extension_Metot.exe
+C:\D\YMS5528\OOP\12_Extension_Metot\12_Extension_Metot\bin\Debug\12_Extension_Metot.pdb
+C:\D\YMS5528\OOP\12_Extension_Metot\12_Extension_Metot\obj\Debug\12_Extension_Metot.csprojResolveAssemblyReference.cache
+C:\D\YMS5528\OOP\12_Extension_Metot\12_Extension_Metot\obj\Debug\_12_Extension_Metot.Form1.resources
+C:\D\YMS5528\OOP\12_Extension_Metot\12_Extension_Metot\obj\Debug\_12_Extension_Metot.Properties.Resources.resources
+C:\D\YMS5528\OOP\12_Extension_Metot\12_Extension_Metot\obj\Debug\12_Extension_Metot.csproj.GenerateResource.Cache
+C:\D\YMS5528\OOP\12_Extension_Metot\12_Extension_Metot\obj\Debug\12_Extension_Metot.exe
+C:\D\YMS5528\OOP\12_Extension_Metot\12_Extension_Metot\obj\Debug\12_Extension_Metot.pdb
